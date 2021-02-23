@@ -3,7 +3,8 @@
         MsgBox("hola")
         Dim x As Integer
         For x = 0 To 100
-            MsgBox(x)
+            MsgBox("Hola" + x)
+
         Next
     End Sub
 End Class
