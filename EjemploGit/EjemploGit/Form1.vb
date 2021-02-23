@@ -6,5 +6,10 @@
             MsgBox("Hola" + x)
 
         Next
+
+        For x = 0 To 100
+            MsgBox("Hola" + x)
+
+        Next
     End Sub
 End Class
